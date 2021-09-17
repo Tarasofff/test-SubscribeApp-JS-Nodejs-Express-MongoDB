@@ -32,7 +32,7 @@ type in the project console: NODE_ENV=tarasov(or yours) npm run start
 
 If app was started you can see:
 
-![image](https://github.com/Tarasofff/test-SubscribeApp-JS-Nodejs-Express-MongoDB/blob/main/image.png)
+![image](https://github.com/Tarasofff/test-SubscribeApp-JS-Nodejs-Express-MongoDB/blob/main/start.png)
 
 For comfortable use service you can use Postman - https://www.postman.com/downloads/
 
@@ -49,7 +49,7 @@ Service paths:
 POST: Add user tutorial (path: http://localhost:7000/api/users/)
 
 Open Postman and choose HTTP methot to POST, type path, then choose body to raw and type JSON\
-![image](https://raw.githubusercontent.com/Tarasofff/test-SubscribeApp-JS-Nodejs-Express-MongoDB/main/image.png)
+![image](https://github.com/Tarasofff/test-SubscribeApp-JS-Nodejs-Express-MongoDB/blob/main/createuserscreen.png)
 Type json: \
 Example:\
 {
